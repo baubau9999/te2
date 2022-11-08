@@ -3,7 +3,7 @@
 "product":"5",
 "customer":"20",
 "legit":"70+",
-"version":"v1",
+"version":"1",
 "update":"Chưa",
 "download":"..."
 }]}
