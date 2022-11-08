@@ -2,5 +2,8 @@
 "time":1651523262,
 "product":"5",
 "customer":"20",
-"legit":"70+"
+"legit":"70+",
+"version":"v1",
+"update":"v1",
+"dowload":"v1"
 }]}
