@@ -4,6 +4,6 @@
 "customer":"20",
 "legit":"70+",
 "version":"v1",
-"update":"Chưa!",
+"update":"Chưa",
 "dowload":"https://www.facebook.com/"
 }]}
