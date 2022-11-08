@@ -5,5 +5,5 @@
 "legit":"70+",
 "version":"v1",
 "update":"Chưa",
-"dowload":"<a class="this-is-pain" href="invite.html">Invite Me</a>"
+"download":"<a class="this-is-pain" href="invite.html">Invite Me</a>"
 }]}
